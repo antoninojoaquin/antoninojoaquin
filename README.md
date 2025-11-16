@@ -20,4 +20,5 @@
 
 ---
 
+![GitHub Streak](https://streak-stats.demolab.com?user=devjoaq&theme=radical&hide_border=false)
 
