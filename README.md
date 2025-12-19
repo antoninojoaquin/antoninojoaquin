@@ -40,7 +40,7 @@
 
 <p align="left">
   <a href="mailto:antoninojoaquin06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Envíame_un_correo-000?style=for-the-badge&logo=gmail&logoColor=00d1ff" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-antoninojoaquin06@gmail.com-000?style=for-the-badge&logo=gmail&logoColor=00d1ff" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/joaquin-antonino/">
     <img src="https://img.shields.io/badge/LinkedIn-Conectemos-000?style=for-the-badge&logo=linkedin&logoColor=00d1ff" alt="LinkedIn" />
@@ -48,4 +48,7 @@
 </p>
 
 <br>
+
 ![Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+<br>
