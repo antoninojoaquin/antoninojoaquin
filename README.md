@@ -2,13 +2,15 @@
 
 ![Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-<br>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=false&vCenter=true&width=435&lines=Frontend+Developer;Analista+de+Sistemas;Creando+soluciones+web" alt="Typing SVG" />
+</a>
 
-Frontend Developer | Argentina
-<br>
-> 💻 Estudiante de Analista de Sistemas apasionado por el desarrollo web y el aprendizaje continuo.
+<br/>
 
-<br>
+> 💻 **Sobre mí:** Estudiante de Analista de Sistemas apasionado por el desarrollo web, la lógica y el pixel-perfect.
+
+<br/>
 
 ## 🚀 Tech Stack
 
