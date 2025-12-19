@@ -6,6 +6,7 @@
 
 ## 🚀 Tech Stack
 
+<h3 align="left">Lenguajes</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00d1ff" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=00d1ff" alt="CSS" />
@@ -13,11 +14,13 @@
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00d1ff" alt="TS" />
 </p>
 
+<h3 align="left">Frameworks</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00d1ff" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00d1ff" alt="Tailwind" />
 </p>
 
+<h3 align="left">Herramientas</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00d1ff" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00d1ff" alt="GitHub" />
