@@ -4,8 +4,7 @@
 
 ![Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-## 🚀 Tech Stack
-
+<h3 align="left">Lenguajes</h3>
 <h3 align="left">Lenguajes</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00d1ff" alt="HTML" />
