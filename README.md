@@ -28,4 +28,3 @@
 </p>
 
 ---
-<sub><em>Perfil actualizado 2025 • Diseñado con estilo Dark/Cyan</em></sub>
