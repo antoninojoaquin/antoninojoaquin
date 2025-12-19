@@ -46,7 +46,7 @@ Frontend Developer | Argentina
   <br>
   
   <a href="https://www.linkedin.com/in/joaquin-antonino/">
-    <img src="https://img.shields.io/badge/-Joaquín_Antonino-000?style=for-the-badge&logo=linkedin&logoColor=00d1ff" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-linkedin-000?style=for-the-badge&logo=linkedin&logoColor=00d1ff" alt="LinkedIn" />
   </a>
 </p>
 
