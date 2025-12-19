@@ -1,30 +1,55 @@
 # Joaquín Antonino
 
-![Frontend Developer](https://img.shields.io/badge/Frontend_Developer-00d1ff?style=for-the-badge&logoColor=000000&labelColor=00d1ff)
-
-> <samp>Estudiante de Analista de Sistemas y Desarrollador Frontend de Argentina.<br>
-> Apasionado por construir aplicaciones web y siempre aprendiendo nuevas tecnologías.</samp>
+![Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <br>
 
-![Tech Stack](https://img.shields.io/badge/🚀_Tech_Stack-00d1ff?style=for-the-badge&labelColor=000000&color=00d1ff)
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,git,github,sqlite&theme=dark" />
-</div>
+Frontend Developer | Argentina
+<br>
+> 💻 Estudiante de Analista de Sistemas apasionado por el desarrollo web y el aprendizaje continuo.
 
 <br>
 
-![Contacto](https://img.shields.io/badge/📬_Contacto-00d1ff?style=for-the-badge&labelColor=000000&color=00d1ff)
+## 🚀 Tech Stack
 
 <p align="left">
-  <a href="mailto:antoninojoaquin06@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-antoninojoaquin06%40gmail.com-000?style=flat&logo=gmail&logoColor=00d1ff&labelColor=18181b&color=18181b&border=00d1ff" alt="Email" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00d1ff" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00d1ff" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00d1ff" alt="JS" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00d1ff" alt="TS" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00d1ff" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00d1ff" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=00d1ff" alt="SQLite" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00d1ff" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00d1ff" alt="GitHub" />
+</p>
+
+<br>
+
+![Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+<br>
+
+## 📬 Contacto
+
+<p align="left">
+  <a href="mailto:antoninojoaquin06@gmail.com">
+    <img src="https://img.shields.io/badge/-antoninojoaquin06%40gmail.com-000?style=for-the-badge&logo=gmail&logoColor=00d1ff" alt="Email" />
   </a>
+  
   <br>
-  <a href="https://www.linkedin.com/in/joaquin-antonino/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Joaquín_Antonino-000?style=flat&logo=linkedin&logoColor=00d1ff&labelColor=18181b&color=18181b" alt="LinkedIn" />
+  
+  <a href="https://www.linkedin.com/in/joaquin-antonino/">
+    <img src="https://img.shields.io/badge/-Joaquín_Antonino-000?style=for-the-badge&logo=linkedin&logoColor=00d1ff" alt="LinkedIn" />
   </a>
 </p>
 
----
+<br>
+
+![Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
