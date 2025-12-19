@@ -1,9 +1,6 @@
-<h3>
-  Joaquín Antonino <span style="color:#555">|</span>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D1FF&center=false&vCenter=true&width=600&lines=Frontend+Developer;Analista+de+Sistemas;Learning+Every+Day" alt="Typing SVG" height="26" />
-  </a>
-</h3>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00D1FF&center=false&vCenter=true&width=1000&lines=Frontend+Developer;Analista+de+Sistemas;Learning+Every+Day&prefix=Joaquín+Antonino+%7C+" alt="Typing SVG" />
+</a>
 
 ![Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
