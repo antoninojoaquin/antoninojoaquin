@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<hr style="height: 4px; background-color: #00d1ff; border: none;" />
+<div style="width: 100%; height: 4px; background-color: #00d1ff;"></div>
 
 ## 🚀 Tech Stack
 
