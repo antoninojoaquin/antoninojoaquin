@@ -37,7 +37,7 @@
 
 <p align="left">
   <a href="mailto:antoninojoaquin06@gmail.com"><img src="https://img.shields.io/badge/Email-antoninojoaquin06@gmail.com-000?style=for-the-badge&logoColor=00d1ff" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/joaquin-antonino/"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-000?style=for-the-badge&logo=linkedin&logoColor=00d1ff" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/antoninojoaquin/"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-000?style=for-the-badge&logo=linkedin&logoColor=00d1ff" alt="LinkedIn" /></a>
 </p>
 
 <br>
