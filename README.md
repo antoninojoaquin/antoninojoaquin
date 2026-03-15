@@ -6,7 +6,7 @@
   </a>
 </div>
 
----
+![Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## 🚀 Tech Stack
 
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00d1ff" alt="GitHub" />
 </p>
 
----
+![Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 ## 📬 Contact
@@ -42,7 +42,7 @@
 
 <br>
 
----
+![Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <br>
 
