@@ -6,11 +6,7 @@
   </a>
 </div>
 
-<div align="center">
-  <svg height="3" width="100%">
-    <rect width="100%" height="3" fill="#00d1ff" />
-  </svg>
-</div>
+---
 
 ## 🚀 Tech Stack
 
@@ -34,11 +30,7 @@
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00d1ff" alt="GitHub" />
 </p>
 
-<div align="center">
-  <svg height="3" width="100%">
-    <rect width="100%" height="3" fill="#00d1ff" />
-  </svg>
-</div>
+---
 
 
 ## 📬 Contact
@@ -50,11 +42,7 @@
 
 <br>
 
-<div align="center">
-  <svg height="3" width="100%">
-    <rect width="100%" height="3" fill="#00d1ff" />
-  </svg>
-</div>
+---
 
 <br>
 
