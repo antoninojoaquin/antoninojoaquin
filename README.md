@@ -45,3 +45,7 @@
 ![Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoninojoaquin&layout=compact&title_color=00d1ff&text_color=00d1ff&bg_color=000000" />
+</div>
