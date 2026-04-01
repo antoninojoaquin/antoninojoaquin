@@ -39,13 +39,3 @@
   <a href="mailto:antoninojoaquin06@gmail.com"><img src="https://img.shields.io/badge/Email-antoninojoaquin06@gmail.com-000?style=for-the-badge&logoColor=00d1ff" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/antoninojoaquin/"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-000?style=for-the-badge&logo=linkedin&logoColor=00d1ff" alt="LinkedIn" /></a>
 </p>
-
-<br>
-
-![Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoninojoaquin&layout=compact&title_color=00d1ff&text_color=00d1ff&bg_color=000000" />
-</div>
