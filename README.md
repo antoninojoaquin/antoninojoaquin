@@ -10,8 +10,6 @@
 
 <h3 align="left">Languages</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00d1ff" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=00d1ff" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00d1ff" alt="JS" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00d1ff" alt="TS" />
 </p>
