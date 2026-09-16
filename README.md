@@ -6,7 +6,7 @@
   <img src="divider.svg" alt="Line Divider" width="100%" />
 </div>
 
-## 🚀 Tech Stack
+## <img src="tech.svg" width="32" align="absmiddle" /> Tech Stack
 
 <h3 align="left">Languages</h3>
 <p align="left">
@@ -32,7 +32,7 @@
   <img src="divider.svg" alt="Line Divider" width="100%" />
 </div>
 
-## 📬 Contact
+## <img src="contact.svg" width="32" align="absmiddle" /> Contact
 
 <p align="left">
   <a href="mailto:antoninojoaquin06@gmail.com"><img src="https://img.shields.io/badge/Email-antoninojoaquin06@gmail.com-000?style=for-the-badge&logoColor=00d1ff" alt="Email" /></a>
