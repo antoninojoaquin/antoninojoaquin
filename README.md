@@ -1,12 +1,10 @@
-<h1 align="center">Joaquín Antonino</h1>
-
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause$duration=500=750&color=00D1FF&center=true&vCenter=true&width=1000&lines=Frontend+Developer;Systems+Analyst+Student;" alt="Typing SVG" />
-  </a>
+  <img src="banner.svg" alt="Antonino Joaquín - Systems Analyst Student & Frontend Developer" width="100%" />
 </div>
 
-![Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+<div align="center">
+  <img src="divider.svg" alt="Line Divider" width="100%" />
+</div>
 
 ## 🚀 Tech Stack
 
@@ -30,8 +28,9 @@
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00d1ff" alt="GitHub" />
 </p>
 
-![Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
+<div align="center">
+  <img src="divider.svg" alt="Line Divider" width="100%" />
+</div>
 
 ## 📬 Contact
 
