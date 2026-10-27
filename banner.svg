@@ -38,13 +38,13 @@
         </linearGradient>
 
         <clipPath id="clip1">
-            <rect x="-210" y="-35" width="0" height="50">
-                <animate attributeName="width" values="0; 420; 420; 0; 0" keyTimes="0; 0.2; 0.45; 0.5; 1" dur="10s" repeatCount="indefinite" />
+            <rect x="-145" y="-35" width="0" height="50">
+                <animate attributeName="width" values="0; 290; 290; 0; 0" keyTimes="0; 0.2; 0.45; 0.5; 1" dur="10s" repeatCount="indefinite" />
             </rect>
         </clipPath>
         <clipPath id="clip2">
-            <rect x="-165" y="-35" width="0" height="50">
-                <animate attributeName="width" values="0; 0; 330; 330; 0" keyTimes="0; 0.5; 0.66; 0.95; 1" dur="10s" repeatCount="indefinite" />
+            <rect x="-110" y="-35" width="0" height="50">
+                <animate attributeName="width" values="0; 0; 220; 220; 0" keyTimes="0; 0.5; 0.66; 0.95; 1" dur="10s" repeatCount="indefinite" />
             </rect>
         </clipPath>
     </defs>
@@ -65,22 +65,22 @@
         <g>
             <animate attributeName="opacity" values="1; 1; 0; 0" keyTimes="0; 0.5; 0.501; 1" dur="10s" repeatCount="indefinite" />
             
-            <text x="-210" y="0" class="subtitle" clip-path="url(#clip1)">Systems Analyst Student</text>
+            <text x="-145" y="0" class="subtitle" clip-path="url(#clip1)">Mobile Developer</text>
             
-            <line class="cursor" x1="-210" y1="-25" x2="-210" y2="5">
-                <animate attributeName="x1" values="-210; 210; 210; -210; -210" keyTimes="0; 0.2; 0.45; 0.5; 1" dur="10s" repeatCount="indefinite" />
-                <animate attributeName="x2" values="-210; 210; 210; -210; -210" keyTimes="0; 0.2; 0.45; 0.5; 1" dur="10s" repeatCount="indefinite" />
+            <line class="cursor" x1="-145" y1="-25" x2="-145" y2="5">
+                <animate attributeName="x1" values="-145; 145; 145; -145; -145" keyTimes="0; 0.2; 0.45; 0.5; 1" dur="10s" repeatCount="indefinite" />
+                <animate attributeName="x2" values="-145; 145; 145; -145; -145" keyTimes="0; 0.2; 0.45; 0.5; 1" dur="10s" repeatCount="indefinite" />
             </line>
         </g>
 
         <g>
             <animate attributeName="opacity" values="0; 0; 1; 1" keyTimes="0; 0.499; 0.5; 1" dur="10s" repeatCount="indefinite" />
             
-            <text x="-165" y="0" class="subtitle" clip-path="url(#clip2)">Frontend Developer</text>
+            <text x="-110" y="0" class="subtitle" clip-path="url(#clip2)">React Native</text>
             
-            <line class="cursor" x1="-165" y1="-25" x2="-165" y2="5">
-                <animate attributeName="x1" values="-165; -165; 165; 165; -165" keyTimes="0; 0.5; 0.66; 0.95; 1" dur="10s" repeatCount="indefinite" />
-                <animate attributeName="x2" values="-165; -165; 165; 165; -165" keyTimes="0; 0.5; 0.66; 0.95; 1" dur="10s" repeatCount="indefinite" />
+            <line class="cursor" x1="-110" y1="-25" x2="-110" y2="5">
+                <animate attributeName="x1" values="-110; -110; 110; 110; -110" keyTimes="0; 0.5; 0.66; 0.95; 1" dur="10s" repeatCount="indefinite" />
+                <animate attributeName="x2" values="-110; -110; 110; 110; -110" keyTimes="0; 0.5; 0.66; 0.95; 1" dur="10s" repeatCount="indefinite" />
             </line>
         </g>
 
