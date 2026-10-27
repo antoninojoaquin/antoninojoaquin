@@ -43,6 +43,7 @@ Mobile Developer building Android and iOS apps with **React Native**. Systems An
 <p align="left">
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00d1ff" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00d1ff" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Android_Studio_%28Emulator%29-000000?style=for-the-badge&logo=androidstudio&logoColor=00d1ff" alt="Android Studio (Emulator)" />
 </p>
 
 <div align="center">
