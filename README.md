@@ -37,7 +37,6 @@ Mobile Developer building Android and iOS apps with **React Native**. Systems An
   <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=00d1ff" alt=".NET" />
   <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00d1ff" alt="Firebase" />
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00d1ff" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00d1ff" alt="Tailwind CSS" />
 </p>
 
 <h3 align="left">Tools</h3>
